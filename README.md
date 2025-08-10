@@ -48,12 +48,4 @@ Quando não estou programando, gosto de:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEU-INSTAGRAM)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-GITHUB)
 
----
-
-## 📊 GitHub Stats
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-GITHUB&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-GITHUB&layout=compact&theme=tokyonight)
-
----
-
 > “O aprendizado é infinito, e cada desafio é uma nova oportunidade de crescer.” 🚀
