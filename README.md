@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Paulo Guilherme
+# 😎 Paulo Guilherme
 
 🎓 **Graduando em Engenharia de Software**  
 💻 Base sólida em **HTML**, **C#**, **JavaScript** e **Progress OpenEdge**  
