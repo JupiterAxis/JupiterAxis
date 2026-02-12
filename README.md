@@ -17,7 +17,8 @@ Gosto de **trabalhar em equipe**, tenho um toque de **perfeccionismo** e busco *
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Progress OpenEdge](https://img.shields.io/badge/Progress%20OpenEdge-0095D5?style=for-the-badge&logo=progress&logoColor=white)
-![Node Current](https://img.shields.io/node/v/:packageName)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 
 
 ---
