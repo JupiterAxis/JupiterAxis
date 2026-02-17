@@ -24,6 +24,7 @@ Gosto de **trabalhar em equipe**, tenho um toque de **perfeccionismo** e busco *
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 
+
 ---
 
 ## 📌 Experiências e aprendizados
